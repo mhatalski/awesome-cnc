@@ -2,8 +2,14 @@
 A curated list of CNC (Computer Numerical Control) resources.
 
 ## Contents
-- [Design into 3D](https://willadams.gitbook.io/design-into-3d/) - A system for parametric design of projects for CNC or traditional techniques.
+- [Introduction](#introduction)
+- [Vector Generators](#vector-generators)
+- [YouTube Channels](#youtube-channels)
+- [Related Awesome Lists](#related-awesome-lists)
+
+### Introduction
 - [Shapeoko CNC A to Z](https://shapeokoenthusiasts.gitbook.io/shapeoko-cnc-a-to-z/) - Guide for new Shapeoko CNC users, but lots of good general info on workflow, tooling, feeds & speeds, workholding, etc.
+- [Design into 3D](https://willadams.gitbook.io/design-into-3d/) - A system for parametric design of projects for CNC or traditional techniques.
 
 ### Vector Generators
 - [CNC Hershey Font (Single Line Font) Tool](https://msurguy.github.io/cnc-text-tool/) - Single line (instead of outline) fonts are great for fast CNC engraving and also work better for things like LED signs. Browser based tool producing SVG output by [Maksim Surguy](https://github.com/msurguy)
