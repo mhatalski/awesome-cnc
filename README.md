@@ -37,9 +37,14 @@ A curated list of CNC (Computer Numerical Control) resources.
 ### Uncategorized
 - [Maker.js](https://maker.js.org/) - Javascript library created to make line drawings for CNC and laser cutters. Exports SVG, DXF, PDF.
 - [Paper.js](http://paperjs.org/) - Javascript library for working with vector graphics. *The Swiss Army Knife of Vector Graphics Scripting*
+- [lasercut.scad](https://github.com/bmsleight/lasercut) - OpenSCAD module allowing 3d models to be created from 2d lasercut parts, with a flat file automatically generated.
 - [Design into 3D](https://willadams.gitbook.io/design-into-3d/) - A system for parametric design of projects for CNC or traditional techniques.
 - [TouchTerrain](https://touchterrain.geol.iastate.edu/) - TouchTerrain converts digital elevation data into digital model files (STL or OBJ) suitable for 3D printing or CNCing.
 - [Carving 3D Terrain Topographic Relief Maps on a CNC Machine](https://www.instructables.com/Carving-3D-Terrain-Topographic-Relief-Maps-on-a-CN/) - Step by Step Instructable.
+- [Moon Trek](https://trek.nasa.gov/moon/#v=0.1&x=-20.13793907748061&y=9.525146306697042&z=7&p=urn%3Aogc%3Adef%3Acrs%3AEPSG%3A%3A104903&d=&locale=&b=moon) - Moon Trek provides tools to browse lunar images & data. Tools include producing digital models that can be CNC carved or 3D printed.
+- [3D Printed Moon Copernicus Crater Desk Décor](https://www.instructables.com/3D-Printed-Moon-Copernicus-Crater-Desk-D%C3%A9cor/) - Instruction for 3D printing, but applicable for CNC machining.
+- [SVGNest](https://github.com/Jack000/SVGnest) - A browser-based tool for nesting SVG vectors.
+- [OpenDesk.cc Design Files](https://github.com/timrolls/Opendesk) - Collection of OpenDesk.cc design files.
 
 ### Related Awesome Lists
 - [Awesome Plotters](https://github.com/beardicus/awesome-plotters) - What is a plotter but a CNC machine with a pen?
