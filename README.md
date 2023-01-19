@@ -2,15 +2,15 @@
 A curated list of CNC (Computer Numerical Control) resources.
 
 ## Contents
-- [Learning About CNC](#learning-about-cnc)
-- [Feeds and Speeds](#feeds-and-speeds)
-- [Workholding](#workholding)
+- [Introduction to CNC](#introduction-to-cnc)
+  - [Feeds and Speeds](#feeds-and-speeds)
+  - [Workholding](#workholding)
 - [Vector Generators](#vector-generators)
 - [YouTube Channels](#youtube-channels)
 - [Uncategorized](#uncategorized)
 - [Related Awesome Lists](#related-awesome-lists)
 
-### Learning About CNC
+## Introduction to CNC
 - [Shapeoko CNC A to Z](https://shapeokoenthusiasts.gitbook.io/shapeoko-cnc-a-to-z/) - Guide for new Shapeoko CNC users, but lots of good general info on workflow, tooling, feeds & speeds, workholding, etc.
 - [PreciseBits Tutorials](https://www.precisebits.com/tutorials.htm) - Collection of Wood & Metal tutorials accumulated by [PreciseBits A.K.A. Think & Tinker, Ltd.](https://www.precisebits.com/).
 
@@ -38,6 +38,8 @@ A curated list of CNC (Computer Numerical Control) resources.
 - [Maker.js](https://maker.js.org/) - Javascript library created to make line drawings for CNC and laser cutters. Exports SVG, DXF, PDF.
 - [Paper.js](http://paperjs.org/) - Javascript library for working with vector graphics. *The Swiss Army Knife of Vector Graphics Scripting*
 - [Design into 3D](https://willadams.gitbook.io/design-into-3d/) - A system for parametric design of projects for CNC or traditional techniques.
+- [TouchTerrain](https://touchterrain.geol.iastate.edu/) - TouchTerrain converts digital elevation data into digital model files (STL or OBJ) suitable for 3D printing or CNCing.
+- [Carving 3D Terrain Topographic Relief Maps on a CNC Machine](https://www.instructables.com/Carving-3D-Terrain-Topographic-Relief-Maps-on-a-CN/) - Step by Step Instructable.
 
 ### Related Awesome Lists
 - [Awesome Plotters](https://github.com/beardicus/awesome-plotters) - What is a plotter but a CNC machine with a pen?
