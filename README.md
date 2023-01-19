@@ -15,6 +15,8 @@ A curated list of CNC (Computer Numerical Control) resources.
 - [PreciseBits Tutorials](https://www.precisebits.com/tutorials.htm) - Collection of Wood & Metal tutorials accumulated by [PreciseBits A.K.A. Think & Tinker, Ltd.](https://www.precisebits.com/).
 
 ### Feeds and Speeds
+- [Making sense of Feeds and Speeds](https://www.grbl.org/single-post/making-sense-of-feeds-and-speeds) - 
+- [16 Tips to Avoid Tearout and Splintering / CNC Machining Plywood](https://www.cnccookbook.com/16-cnc-router-tips-to-avoid-tearout-and-splintering/) - 
 - [Fablab Speed and Feeds Calculator](https://pub.pages.cba.mit.edu/feed_speeds/) - Basic feeds & speeds calculator. Not a replacement for understanding feeds & speeds.
 - [PreciseBits Feed and Speed Calculators](https://www.precisebits.com/calc)
 
