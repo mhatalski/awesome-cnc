@@ -2,12 +2,15 @@
 A curated list of CNC (Computer Numerical Control) resources
 
 ## Contents
-- []() -
-
 - [Design into 3D](https://willadams.gitbook.io/design-into-3d/) - A system for parametric design of projects for CNC or traditional techniques.
 - [Shapeoko CNC A to Z](https://shapeokoenthusiasts.gitbook.io/shapeoko-cnc-a-to-z/) - Guide for new Shapeoko CNC users, but lots of good general info on workflow, tooling, feeds & speeds, workholding, etc.
+
+### Vector Generators
+- [CNC Hershey Font (Single Line Font) Tool](https://msurguy.github.io/cnc-text-tool/) - Sometimes you need a single line instead of an outline font. Hershey fonts were developed for display on CRT displays. Browser based tool producing SVG output by [Maksim Surguy](https://github.com/msurguy)
 - [MakerCase](https://www.makercase.com/) - web-based application for designing boxes or project cases for laser cutters and CNC routers. Generates SVG or DXF files.
 - [Maze Generator](https://www.mazegenerator.net/) - Maze Generator, free to use for private projects, commercial license available.
+- [Maker.js](https://maker.js.org/) - Javascript library created to make line drawings for CNC and laser cutters. Exports SVG, DXF, PDF.
+- [Paper.js](http://paperjs.org/) - Javascript library for working with vector graphics. *The Swiss Army Knife of Vector Graphics Scripting*
 
 ### YouTube Channels
 - [Learn Your CNC](https://www.youtube.com/@LearnYourCNC) - Lot's of good Vectric tips & tricks by Kyle Ely. He also teaches master and group Vectric classes.
@@ -17,4 +20,5 @@ A curated list of CNC (Computer Numerical Control) resources
 
 ### Related Awesome Lists
 - [Awesome Plotters](https://github.com/beardicus/awesome-plotters) - What is a plotter but a CNC machine with a pen?
+- [DrawingBots Resources]() - list of resources and tools for plotter and drawing robot enthusiasts
 
