@@ -3,14 +3,24 @@ A curated list of CNC (Computer Numerical Control) resources.
 
 ## Contents
 - [Learning About CNC](#learning-about-cnc)
+- [Feeds and Speeds](#feeds-and-speeds)
+- [Workholding](#workholding)
 - [Vector Generators](#vector-generators)
 - [YouTube Channels](#youtube-channels)
 - [Related Awesome Lists](#related-awesome-lists)
 
 ### Learning About CNC
 - [Shapeoko CNC A to Z](https://shapeokoenthusiasts.gitbook.io/shapeoko-cnc-a-to-z/) - Guide for new Shapeoko CNC users, but lots of good general info on workflow, tooling, feeds & speeds, workholding, etc.
+- [PreciseBits Tutorials](https://www.precisebits.com/tutorials.htm) - Collection of Wood & Metal tutorials accumulated by [PreciseBits A.K.A. Think & Tinker, Ltd.](https://www.precisebits.com/).
 - [Design into 3D](https://willadams.gitbook.io/design-into-3d/) - A system for parametric design of projects for CNC or traditional techniques.
 
+### Feeds and Speeds
+- [Fablab Speed and Feeds Calculator](https://pub.pages.cba.mit.edu/feed_speeds/) - Basic feeds & speeds calculator. Not a replacement for understanding feeds & speeds.
+- [PreciseBits Feed and Speed Calculators](https://www.precisebits.com/calc)
+
+### Workholding
+- [8 Ways to Hold Material in Place While Machining with a CNC Router](https://www.learnyourcnc.com/blog/8-ways-to-hold-material-in-place-while-machining-with-a-cnc-router) - Blog post by Kyle Ely of [Learn Your CNC](https://www.learnyourcnc.com/) fame.
+- 
 ### Vector Generators
 - [CNC Hershey Font (Single Line Font) Tool](https://msurguy.github.io/cnc-text-tool/) - Single line (instead of outline) fonts are great for fast CNC engraving and also work better for things like LED signs. Browser based tool producing SVG output by [Maksim Surguy](https://github.com/msurguy)
 - [MakerCase](https://www.makercase.com/) - web-based application for designing boxes or project cases for laser cutters and CNC routers. Generates SVG or DXF files.
