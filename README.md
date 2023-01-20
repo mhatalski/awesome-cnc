@@ -12,7 +12,7 @@ A curated list of CNC (Computer Numerical Control) resources.
 
 ## Introduction to CNC
 - [Shapeoko CNC A to Z](https://shapeokoenthusiasts.gitbook.io/shapeoko-cnc-a-to-z/) - Guide for new Shapeoko CNC users, but lots of good general info on workflow, tooling, feeds & speeds, workholding, etc.
-- [PreciseBits Tutorials](https://www.precisebits.com/tutorials.htm) - Collection of Wood & Metal tutorials accumulated by [PreciseBits A.K.A. Think & Tinker, Ltd.](https://www.precisebits.com/).
+- [PreciseBits Tutorials](https://www.precisebits.com/tutorials.htm) - Collection of Wood & Metal tutorials accumulated by [PreciseBits aka Think & Tinker](https://www.precisebits.com/).
 - [AutoDesk Instructables CNC Class](https://www.instructables.com/CNC-Class/) - Teaches basic CNC concepts and flat pack design.
 
 ### Feeds and Speeds
@@ -25,12 +25,12 @@ A curated list of CNC (Computer Numerical Control) resources.
 - [8 Ways to Hold Material in Place While Machining with a CNC Router](https://www.learnyourcnc.com/blog/8-ways-to-hold-material-in-place-while-machining-with-a-cnc-router) - Blog post by Kyle Ely of [Learn Your CNC](https://www.learnyourcnc.com/) fame.
 - 
 ### Vector Generators
-- [CNC Hershey Font (Single Line Font) Tool](https://msurguy.github.io/cnc-text-tool/) - Single line (instead of outline) fonts are great for fast CNC engraving and also work better for things like LED signs. Browser based tool producing SVG output by [Maksim Surguy](https://github.com/msurguy)
+- [CNC Hershey Font (Single Line Font) Tool](https://msurguy.github.io/cnc-text-tool/) - Single line (instead of outline) fonts are great for fast CNC engraving and also work better for things like LED signs. Browser based tool producing SVG output ([Maksim Surguy](https://github.com/msurguy))
 - [MakerCase](https://www.makercase.com/) - web-based application for designing boxes or project cases for laser cutters and CNC routers. Generates SVG or DXF files.
 - [Maze Generator](https://www.mazegenerator.net/) - Maze Generator, free to use for private projects, commercial license available.
-- [StippleGen](https://github.com/evil-mad/stipplegen) - Processing application that can create stipple drawings and “TSP art,” from image files. By [Evil Mad Scientist Laboratories](https://www.evilmadscientist.com/).
-- [Rad Lines](https://github.com/msurguy/rad-lines) - Generats vector line artworks for plotting / laser engraving / CNC machining or marketing purposes. Also by [Maksim Surguy](https://github.com/msurguy)
-- [Flow Lines](https://github.com/msurguy/flow-lines) - Flow field / streamlines / flow lines visualization. Also by [Maksim Surguy](https://github.com/msurguy)
+- [StippleGen](https://github.com/evil-mad/stipplegen) - Processing application that can create stipple drawings and “TSP art,” from image files. ([Evil Mad Scientist Laboratories](https://www.evilmadscientist.com/))
+- [Rad Lines](https://github.com/msurguy/rad-lines) - Generats vector line artworks for plotting / laser engraving / CNC machining or marketing purposes. ([Maksim Surguy](https://github.com/msurguy))
+- [Flow Lines](https://github.com/msurguy/flow-lines) - Flow field / streamlines / flow lines visualization. ([Maksim Surguy](https://github.com/msurguy))
 
 ### YouTube Channels
 - [Learn Your CNC](https://www.youtube.com/@LearnYourCNC) - Lot's of good Vectric tips & tricks by Kyle Ely. He also teaches master and group Vectric classes.
