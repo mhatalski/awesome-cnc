@@ -7,6 +7,7 @@ A curated list of CNC (Computer Numerical Control) resources.
   - [Feeds and Speeds](#feeds-and-speeds)
   - [Workholding](#workholding)
 - [Designs and Models](#designs-and-models)
+  - [Furniture](furniture)
   - [Vector Generators](#vector-generators)
 - [YouTube Channels](#youtube-channels)
 - [Uncategorized](#uncategorized)
@@ -28,8 +29,16 @@ A curated list of CNC (Computer Numerical Control) resources.
 - [8 Ways to Hold Material in Place While Machining with a CNC Router](https://www.learnyourcnc.com/blog/8-ways-to-hold-material-in-place-while-machining-with-a-cnc-router) - Blog post by Kyle Ely of [Learn Your CNC](https://www.learnyourcnc.com/) fame.
 
 ## Designs and Models
-- [OpenDesk.cc Design Files](https://github.com/timrolls/Opendesk) - Collection of OpenDesk.cc design files.
 - [Carbide 3D Elements](https://elements.carbide3d.com/) - Collection of free SVG files ([Carbide 3D](https://carbide3d.com/))
+
+### Furniture
+- [OpenDesk](https://www.opendesk.cc/) - Opendesk connects a library of downloadable designs to makers to customers.
+- [OpenDesk.cc Design Files](https://github.com/timrolls/Opendesk) - Collection of OpenDesk.cc design files.
+- [SketchChair](http://www.sketchchair.cc/) - Design and build digitally fabricated furniture with open-source software.
+- [Layer Chair](http://www.dyvikdesign.com/site/portfolio-jens/products/the-layer-chair) - Parametric chair built out of stacked layers.
+- [Italic Shelf](https://www.ronen-kadushin.com/italic-shelf) - Easy to fabricate, easy to assemble Knock down shelving system.
+- [CNC Workstation Cart](https://www.evilmadscientist.com/2012/cnc-workstation/) - Standing-height computer workstation.
+
 ### Vector Generators
 - [CNC Hershey Font (Single Line Font) Tool](https://msurguy.github.io/cnc-text-tool/) - Single line (instead of outline) fonts are great for fast CNC engraving and also work better for things like LED signs. Browser based tool producing SVG output ([Maksim Surguy](https://github.com/msurguy))
 - [MakerCase](https://www.makercase.com/) - web-based application for designing boxes or project cases for laser cutters and CNC routers. Generates SVG or DXF files.
