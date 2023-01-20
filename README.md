@@ -20,7 +20,7 @@ A curated list of CNC (Computer Numerical Control) resources.
 - [Fablab Speed and Feeds Calculator](https://pub.pages.cba.mit.edu/feed_speeds/) - Basic feeds & speeds calculator. Not a replacement for understanding feeds & speeds.
 - [PreciseBits Feed and Speed Calculators](https://www.precisebits.com/calc)
 - [Making sense of Feeds and Speeds](https://www.grbl.org/single-post/making-sense-of-feeds-and-speeds) - What is Chip Load and why is it important?
-- [16 Tips to Avoid Tearout and Splintering / CNC Machining Plywood](https://www.cnccookbook.com/16-cnc-router-tips-to-avoid-tearout-and-splintering/) - 
+- [16 Tips to Avoid Tearout and Splintering / CNC Machining Plywood](https://www.cnccookbook.com/16-cnc-router-tips-to-avoid-tearout-and-splintering/) - Choice of bits, feeds & speeds, cut direction etc. ([CNC Cookbook](https://www.cnccookbook.com/))
 
 ### Workholding
 - [8 Ways to Hold Material in Place While Machining with a CNC Router](https://www.learnyourcnc.com/blog/8-ways-to-hold-material-in-place-while-machining-with-a-cnc-router) - Blog post by Kyle Ely of [Learn Your CNC](https://www.learnyourcnc.com/) fame.
