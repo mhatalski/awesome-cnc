@@ -5,6 +5,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [Introduction to CNC](#introduction-to-cnc)
   - [Feeds and Speeds](#feeds-and-speeds)
   - [Workholding](#workholding)
+  - [Climb vs Conventional]()#climb-vs-conventional)
 - [Designs and Models](#designs-and-models)
   - [Furniture](furniture)
   - [Vector Generators](#vector-generators)
@@ -27,7 +28,11 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 ### Workholding
 - [8 Ways to Hold Material in Place While Machining with a CNC Router](https://www.learnyourcnc.com/blog/8-ways-to-hold-material-in-place-while-machining-with-a-cnc-router) - Blog post by Kyle Ely of [Learn Your CNC](https://www.learnyourcnc.com/) fame.
 
+### Climb vs Conventional
+ - [Climb vs Conventional Milling](https://www.cnccookbook.com/climb-milling-versus-conventional-milling/) = Which way?
+
 ## Designs and Models
+- [Design & Make 3D Clipart](https://www.designandmake.com/) - Collection of 3D clipart models, both free and paid. ([Vectric](https://www.vectric.com/))
 - [Carbide 3D Elements](https://elements.carbide3d.com/) - Collection of free SVG files ([Carbide 3D](https://carbide3d.com/))
 
 ### Furniture
