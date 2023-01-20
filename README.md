@@ -1,6 +1,5 @@
 # Awesome CNC
-A curated list of CNC (Computer Numerical Control) resources.
-(Focused on wood & plastic machining)
+A curated list of CNC (Computer Numerical Control) and Digital Fabrication resources.
 
 ## Contents
 - [Introduction to CNC](#introduction-to-cnc)
