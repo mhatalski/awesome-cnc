@@ -13,7 +13,7 @@ A curated list of CNC (Computer Numerical Control) resources.
 ## Introduction to CNC
 - [Shapeoko CNC A to Z](https://shapeokoenthusiasts.gitbook.io/shapeoko-cnc-a-to-z/) - Guide for new Shapeoko CNC users, but lots of good general info on workflow, tooling, feeds & speeds, workholding, etc.
 - [PreciseBits Tutorials](https://www.precisebits.com/tutorials.htm) - Collection of Wood & Metal tutorials accumulated by [PreciseBits A.K.A. Think & Tinker, Ltd.](https://www.precisebits.com/).
-- [](https://www.instructables.com/CNC-Class/) - Instructables class teaching basic CNC concepts and flat pack design.
+- [AutoDesk Instructables CNC Class](https://www.instructables.com/CNC-Class/) - Teaches basic CNC concepts and flat pack design.
 
 ### Feeds and Speeds
 - [Making sense of Feeds and Speeds](https://www.grbl.org/single-post/making-sense-of-feeds-and-speeds) - 
