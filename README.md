@@ -6,7 +6,8 @@ A curated list of CNC (Computer Numerical Control) resources.
 - [Introduction to CNC](#introduction-to-cnc)
   - [Feeds and Speeds](#feeds-and-speeds)
   - [Workholding](#workholding)
-- [Vector Generators](#vector-generators)
+- [Designs and Models](#designs-and-models)
+  - [Vector Generators](#vector-generators)
 - [YouTube Channels](#youtube-channels)
 - [Uncategorized](#uncategorized)
 - [Related Awesome Lists](#related-awesome-lists)
@@ -25,7 +26,10 @@ A curated list of CNC (Computer Numerical Control) resources.
 
 ### Workholding
 - [8 Ways to Hold Material in Place While Machining with a CNC Router](https://www.learnyourcnc.com/blog/8-ways-to-hold-material-in-place-while-machining-with-a-cnc-router) - Blog post by Kyle Ely of [Learn Your CNC](https://www.learnyourcnc.com/) fame.
-- 
+
+## Designs and Models
+- [OpenDesk.cc Design Files](https://github.com/timrolls/Opendesk) - Collection of OpenDesk.cc design files.
+- [Carbide 3D Elements](https://elements.carbide3d.com/) - Collection of free SVG files ([Carbide 3D](https://carbide3d.com/))
 ### Vector Generators
 - [CNC Hershey Font (Single Line Font) Tool](https://msurguy.github.io/cnc-text-tool/) - Single line (instead of outline) fonts are great for fast CNC engraving and also work better for things like LED signs. Browser based tool producing SVG output ([Maksim Surguy](https://github.com/msurguy))
 - [MakerCase](https://www.makercase.com/) - web-based application for designing boxes or project cases for laser cutters and CNC routers. Generates SVG or DXF files.
@@ -35,9 +39,9 @@ A curated list of CNC (Computer Numerical Control) resources.
 - [Flow Lines](https://github.com/msurguy/flow-lines) - Flow field / streamlines / flow lines visualization. ([Maksim Surguy](https://github.com/msurguy))
 
 ### YouTube Channels
-- [Learn Your CNC](https://www.youtube.com/@LearnYourCNC) - Lot's of good Vectric tips & tricks by Kyle Ely. He also teaches master and group Vectric classes.
+- [Learn Your CNC](https://www.youtube.com/@LearnYourCNC) - Lot's of good Vectric tips & tricks by Kyle Ely, who also teaches master and group Vectric classes at [LearnYourCNC.com](https://www.learnyourcnc.com/).
 - [Vectric Ltd](https://www.youtube.com/@vectric) - Makers of Aspire/VCarvePro/Cut2D CAD/CAM software. Tips, tricks, tutorials, & projects videos.
-- [Avid CNC](https://www.youtube.com/@AvidCNC) - Formerly CNC Router Parts, Makers of Avid CNC machines. Tips/tricks/tutorials/project videos.
+- [Avid CNC](https://www.youtube.com/@AvidCNC) - (Formerly CNC Router Parts) Makers of Avid CNC machines. Tips/tricks/tutorials/project videos.
 - [ShopBot Tools](https://www.youtube.com/@shopbottools) - Makers of ShopBot CNC routers & tools. Tips/tricks/tutorials/projects/interviews on ShopBot CNC machines, but not machines specific.
 
 ### Uncategorized
@@ -50,7 +54,6 @@ A curated list of CNC (Computer Numerical Control) resources.
 - [Moon Trek](https://trek.nasa.gov/moon/#v=0.1&x=-20.13793907748061&y=9.525146306697042&z=7&p=urn%3Aogc%3Adef%3Acrs%3AEPSG%3A%3A104903&d=&locale=&b=moon) - NASA provide tools to explore lunar maps & data, including download digital models that can be CNC carved or 3D printed.
 - [3D Printed Moon Copernicus Crater Desk Décor](https://www.instructables.com/3D-Printed-Moon-Copernicus-Crater-Desk-D%C3%A9cor/) - Step by step instructions for 3D printing a lunar landscape, but applicable for CNC machining.
 - [SVGNest](https://github.com/Jack000/SVGnest) - A browser-based tool for nesting SVG vectors.
-- [OpenDesk.cc Design Files](https://github.com/timrolls/Opendesk) - Collection of OpenDesk.cc design files.
 
 ### Related Awesome Lists
 - [Awesome Plotters](https://github.com/beardicus/awesome-plotters) - What is a plotter but a CNC machine with a pen?
