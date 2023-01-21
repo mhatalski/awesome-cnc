@@ -23,6 +23,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [Fablab Speed and Feeds Calculator](https://pub.pages.cba.mit.edu/feed_speeds/) - Basic feeds & speeds calculator. Not a replacement for understanding feeds & speeds.
 - [PreciseBits Feed and Speed Calculators](https://www.precisebits.com/calc)
 - [Making sense of Feeds and Speeds](https://www.grbl.org/single-post/making-sense-of-feeds-and-speeds) - What is Chip Load and why is it important?
+- [CNC Feeds and Speeds Calculator Wood](https://www.cnccookbook.com/feeds-speeds-cnc-wood-cutting/) - Guide + Easy Tips ([CNC Cookbook](https://www.cnccookbook.com/))
 - [16 Tips to Avoid Tearout and Splintering / CNC Machining Plywood](https://www.cnccookbook.com/16-cnc-router-tips-to-avoid-tearout-and-splintering/) - Choice of bits, feeds & speeds, cut direction etc. ([CNC Cookbook](https://www.cnccookbook.com/))
 
 ### Workholding
