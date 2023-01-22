@@ -3,6 +3,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 
 ## Contents
 - [Introduction to CNC](#introduction-to-cnc)
+  - [Beginner Books](#beginner-books)
   - [Feeds and Speeds](#feeds-and-speeds)
   - [Workholding](#workholding)
   - [Climb vs Conventional]()#climb-vs-conventional)
@@ -19,6 +20,11 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [AutoDesk Instructables CNC Class](https://www.instructables.com/CNC-Class/) - Teaches basic CNC concepts and flat pack design.
 - [CNC Dictionary](https://www.cnccookbook.com/cnc-dictionary/) - Definitions of various arcane terms used in CNC machining. ([CNC Cookbook](https://www.cnccookbook.com/))
 
+### Beginner Books
+- [Make: Getting Started with CNC](https://www.google.com/books/edition/Getting_Started_with_CNC/wMhlDQAAQBAJ?hl=en&gbpv=1&dq=Getting%20Started%20with%20CNC&pg=PP1&printsec=frontcover) - Introduction to working with desktop CNCs, by the creator of the ShapeOKO CNC.
+- [Make: Design for CNC](https://www.google.com/books/edition/Design_for_CNC/fRc4DwAAQBAJ?hl=en&gbpv=1&dq=Make%3A%20Design%20for%20CNC&pg=PP1&printsec=frontcover) - Learn how to design, fabricate, and assemble a wide range of CNC projects
+- [Guide to CNC Sign Making](https://www.google.com/books/edition/Guide_to_CNC_Sign_Making/jz7HzQEACAAJ?hl=en) - This book will lead you through the sign-making process with simple non-technical language and show you many examples of great signs...
+
 ### Feeds and Speeds
 - [Fablab Speed and Feeds Calculator](https://pub.pages.cba.mit.edu/feed_speeds/) - Basic feeds & speeds calculator. Not a replacement for understanding feeds & speeds.
 - [PreciseBits Feed and Speed Calculators](https://www.precisebits.com/calc)
@@ -28,9 +34,10 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 
 ### Workholding
 - [8 Ways to Hold Material in Place While Machining with a CNC Router](https://www.learnyourcnc.com/blog/8-ways-to-hold-material-in-place-while-machining-with-a-cnc-router) - Blog post by Kyle Ely of [Learn Your CNC](https://www.learnyourcnc.com/) fame.
+- [Hold Down Clamps](https://youtu.be/TZDieOgEApI) - Quick & easy hold down clamps from scraps ([Dave Gatton](https://www.youtube.com/@DaveGatton))
 
 ### Climb vs Conventional
- - [Climb vs Conventional Milling](https://www.cnccookbook.com/climb-milling-versus-conventional-milling/) = Which way?
+ - [Climb vs Conventional Milling](https://www.cnccookbook.com/climb-milling-versus-conventional-milling/) - Which way?
 
 ## Designs and Models
 - [Design & Make 3D Clipart](https://www.designandmake.com/) - Collection of 3D clipart models, both free and paid. ([Vectric](https://www.vectric.com/))
@@ -57,6 +64,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [Vectric Ltd](https://www.youtube.com/@vectric) - Makers of Aspire/VCarvePro/Cut2D CAD/CAM software. Tips, tricks, tutorials, & projects videos.
 - [Avid CNC](https://www.youtube.com/@AvidCNC) - (Formerly CNC Router Parts) Makers of Avid CNC machines. Tips/tricks/tutorials/project videos.
 - [ShopBot Tools](https://www.youtube.com/@shopbottools) - Makers of ShopBot CNC routers & tools. Tips/tricks/tutorials/projects/interviews on ShopBot CNC machines, but not machines specific.
+- [Hobby CNC with Dave Gatton](https://www.youtube.com/@DaveGatton) - Big projects and small.
 
 ### Uncategorized
 - [Maker.js](https://maker.js.org/) - Javascript library created to make line drawings for CNC and laser cutters. Exports SVG, DXF, PDF.
