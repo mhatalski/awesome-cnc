@@ -35,6 +35,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 ### Workholding
 - [8 Ways to Hold Material in Place While Machining with a CNC Router](https://www.learnyourcnc.com/blog/8-ways-to-hold-material-in-place-while-machining-with-a-cnc-router) - Blog post by Kyle Ely of [Learn Your CNC](https://www.learnyourcnc.com/) fame.
 - [Hold Down Clamps](https://youtu.be/TZDieOgEApI) - Quick & easy hold down clamps from scraps ([Dave Gatton](https://www.youtube.com/@DaveGatton))
+- [How to Use Tabs in Vcarve for Woodworking](https://youtu.be/o9wcDoIv5FY) - A variety of techniques for using tabs with Vcarve ([Avid CNC](https://www.youtube.com/@AvidCNC))
 
 ### Climb vs Conventional
  - [Climb vs Conventional Milling](https://www.cnccookbook.com/climb-milling-versus-conventional-milling/) - Which way?
