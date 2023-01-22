@@ -6,6 +6,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
   - [Beginner Books](#beginner-books)
   - [Feeds and Speeds](#feeds-and-speeds)
   - [Workholding](#workholding)
+  - [Tolerances](#tolerances)
   - [Climb vs Conventional]()#climb-vs-conventional)
 - [Designs and Models](#designs-and-models)
   - [Furniture](furniture)
@@ -36,6 +37,11 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [8 Ways to Hold Material in Place While Machining with a CNC Router](https://www.learnyourcnc.com/blog/8-ways-to-hold-material-in-place-while-machining-with-a-cnc-router) - Blog post by Kyle Ely of [Learn Your CNC](https://www.learnyourcnc.com/) fame.
 - [Hold Down Clamps](https://youtu.be/TZDieOgEApI) - Quick & easy hold down clamps from scraps ([Dave Gatton](https://www.youtube.com/@DaveGatton))
 - [How to Use Tabs in Vcarve for Woodworking](https://youtu.be/o9wcDoIv5FY) - A variety of techniques for using tabs with Vcarve ([Avid CNC](https://www.youtube.com/@AvidCNC))
+- [7 CNC Fixturing Tips for a Small Shop](https://makezine.com/article/workshop/7-cnc-fixturing-tips-small-shop/) - Clamps, Vacuum, Double-Sided Tape, CA Glue...
+- [Get a Grip on CNC Work](https://www.woodmagazine.com/tool-reviews/cnc-machines/get-a-grip-on-cnc-work) = old-downs, wedges, screws, double sided tape, hotmelt glue...
+
+# Tolerances
+- [Using OpenDesk.CC to Create CNC Furniture](https://makezine.com/article/digital-fabrication/machining/opendesk-cnc-furniture/) - -0.60mm Mallet-tight, -0.00mm Press-fit, +0.20mm Push-fit, +0.50mm Slide-fit
 
 ### Climb vs Conventional
  - [Climb vs Conventional Milling](https://www.cnccookbook.com/climb-milling-versus-conventional-milling/) - Which way?
