@@ -79,8 +79,9 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [Hobby CNC with Dave Gatton](https://www.youtube.com/@DaveGatton) - Big projects and small.
 
 ### Uncategorized
-- [Maker.js](https://maker.js.org/) - Your compass and straightedge, in JavaScript. Exports SVG, DXF, PDF.
+- [Maker.js](https://maker.js.org/) - JavaScript library, *Your compass and straightedge in JavaScript*. Exports SVG, DXF, PDF.
 - [Paper.js](http://paperjs.org/) - Javascript library for working with vector graphics. *The Swiss Army Knife of Vector Graphics Scripting*
+- [Rough.js](https://roughjs.com/) - JavaScript library for *sketchy hand-drawn-like style*.
 - [lasercut.scad](https://github.com/bmsleight/lasercut) - OpenSCAD module allowing 3d models to be created from 2d lasercut parts, with a flat file automatically generated.
 - [Design into 3D](https://willadams.gitbook.io/design-into-3d/) - A system for parametric design of projects for CNC or traditional techniques.
 - [TouchTerrain](https://touchterrain.geol.iastate.edu/) - TouchTerrain converts digital elevation data into digital model files (STL or OBJ) suitable for 3D printing or CNCing.
