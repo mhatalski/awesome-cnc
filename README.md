@@ -59,6 +59,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [Layer Chair](http://www.dyvikdesign.com/site/portfolio-jens/products/the-layer-chair) - Parametric chair built out of stacked layers.
 - [Italic Shelf](https://www.ronen-kadushin.com/italic-shelf) - Easy to fabricate, easy to assemble Knock down shelving system.
 - [CNC Workstation Cart](https://www.evilmadscientist.com/2012/cnc-workstation/) - Standing-height computer workstation.
+- [SketchChair](http://www.sketchchair.cc/) - free, open-source software tool that allows anyone to easily design and build their own digitally fabricated furniture.
 
 ### Vector Generators
 - [CNC Hershey Font (Single Line Font) Tool](https://msurguy.github.io/cnc-text-tool/) - Single line (instead of outline) fonts are great for fast CNC engraving and also work better for things like LED signs. Browser based tool producing SVG output ([Maksim Surguy](https://github.com/msurguy))
