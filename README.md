@@ -32,6 +32,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [Making sense of Feeds and Speeds](https://www.grbl.org/single-post/making-sense-of-feeds-and-speeds) - What is Chip Load and why is it important?
 - [CNC Feeds and Speeds Calculator Wood](https://www.cnccookbook.com/feeds-speeds-cnc-wood-cutting/) - Guide + Easy Tips ([CNC Cookbook](https://www.cnccookbook.com/))
 - [16 Tips to Avoid Tearout and Splintering / CNC Machining Plywood](https://www.cnccookbook.com/16-cnc-router-tips-to-avoid-tearout-and-splintering/) - Choice of bits, feeds & speeds, cut direction etc. ([CNC Cookbook](https://www.cnccookbook.com/))
+- [SFM to RPM](https://www.cnccookbook.com/what-is-sfm-plus-sfm-to-rpm/) - What is Surface Feet per Minute and converting to spindle speed. ([CNC Cookbook](https://www.cnccookbook.com/))
 
 ### Workholding
 - [8 Ways to Hold Material in Place While Machining with a CNC Router](https://www.learnyourcnc.com/blog/8-ways-to-hold-material-in-place-while-machining-with-a-cnc-router) - Blog post by Kyle Ely of [Learn Your CNC](https://www.learnyourcnc.com/) fame.
