@@ -42,6 +42,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 
 # Tolerances
 - [Using OpenDesk.CC to Create CNC Furniture](https://makezine.com/article/digital-fabrication/machining/opendesk-cnc-furniture/) - -0.60mm Mallet-tight, -0.00mm Press-fit, +0.20mm Push-fit, +0.50mm Slide-fit
+- [More elegant CNC dogbones](https://fablab.ruc.dk/more-elegant-cnc-dogbones/) - Use slightly smaller dogbone fillets, since wood is soft and compressible.
 
 ### Climb vs Conventional
  - [Climb vs Conventional Milling](https://www.cnccookbook.com/climb-milling-versus-conventional-milling/) - Which way?
