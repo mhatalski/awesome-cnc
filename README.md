@@ -69,6 +69,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [Rad Lines](https://github.com/msurguy/rad-lines) - Generats vector line artworks for plotting / laser engraving / CNC machining or marketing purposes. ([Maksim Surguy](https://github.com/msurguy))
 - [Flow Lines](https://github.com/msurguy/flow-lines) - Flow field / streamlines / flow lines visualization. ([Maksim Surguy](https://github.com/msurguy))
 - [PicPerf](http://gofabmo.org/fabmo-picperf-app/) - Simular to Photo VCarve, but with circle/square/hex dots instead of lines. ([FabMo](http://gofabmo.org/))
+- [Vector Halftone Maker](https://halftone.xoihazard.com/) - Dot halftone generator, with many options.
 
 ### YouTube Channels
 - [Learn Your CNC](https://www.youtube.com/@LearnYourCNC) - Lot's of good Vectric tips & tricks by Kyle Ely, who also teaches master and group Vectric classes at [LearnYourCNC.com](https://www.learnyourcnc.com/).
