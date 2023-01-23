@@ -86,6 +86,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [Moon Trek](https://trek.nasa.gov/moon/#v=0.1&x=-20.13793907748061&y=9.525146306697042&z=7&p=urn%3Aogc%3Adef%3Acrs%3AEPSG%3A%3A104903&d=&locale=&b=moon) - NASA provide tools to explore lunar maps & data, including download digital models that can be CNC carved or 3D printed.
 - [3D Printed Moon Copernicus Crater Desk Décor](https://www.instructables.com/3D-Printed-Moon-Copernicus-Crater-Desk-D%C3%A9cor/) - Step by step instructions for 3D printing a lunar landscape, but applicable for CNC machining.
 - [SVGNest](https://github.com/Jack000/SVGnest) - A browser-based tool for nesting SVG vectors.
+- [Digital Fabrication for Designers](http://mkmra2.blogspot.com/2014/08/cnc-cut-wood-joinery.html?m=1) - Discussion of the design and cutting of wood joints with a CNC.
 
 ### Related Awesome Lists
 - [Awesome Plotters](https://github.com/beardicus/awesome-plotters) - What is a plotter but a CNC machine with a pen?
