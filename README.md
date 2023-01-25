@@ -90,6 +90,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [3D Printed Moon Copernicus Crater Desk Décor](https://www.instructables.com/3D-Printed-Moon-Copernicus-Crater-Desk-D%C3%A9cor/) - Step by step instructions for 3D printing a lunar landscape, but applicable for CNC machining.
 - [SVGNest](https://github.com/Jack000/SVGnest) - A browser-based tool for nesting SVG vectors.
 - [Digital Fabrication for Designers](http://mkmra2.blogspot.com/2014/08/cnc-cut-wood-joinery.html?m=1) - Discussion of the design and cutting of wood joints with a CNC.
+- [Lithophane Makers](https://lithophanemaker.com/) - A lithophane is carved or 3D printed artwork in a thin translucent material that reveals an image only when back lit.
 
 ### Related Awesome Lists
 - [Awesome Plotters](https://github.com/beardicus/awesome-plotters) - What is a plotter but a CNC machine with a pen?
