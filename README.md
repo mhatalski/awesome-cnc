@@ -25,6 +25,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [Make: Getting Started with CNC](https://www.google.com/books/edition/Getting_Started_with_CNC/wMhlDQAAQBAJ?hl=en&gbpv=1&dq=Getting%20Started%20with%20CNC&pg=PP1&printsec=frontcover) - Introduction to working with desktop CNCs, by the creator of the ShapeOKO CNC.
 - [Make: Design for CNC](https://www.google.com/books/edition/Design_for_CNC/fRc4DwAAQBAJ?hl=en&gbpv=1&dq=Make%3A%20Design%20for%20CNC&pg=PP1&printsec=frontcover) - Learn how to design, fabricate, and assemble a wide range of CNC projects
 - [Guide to CNC Sign Making](https://www.google.com/books/edition/Guide_to_CNC_Sign_Making/jz7HzQEACAAJ?hl=en) - This book will lead you through the sign-making process with simple non-technical language and show you many examples of great signs...
+- [The Hobbyist's Guide to CNC](https://a.co/d/aYKXSjj) - Just published, haven't had a chance to explore fully, but seems to cover the hobby market.
 
 ### Feeds and Speeds
 - [Fablab Speed and Feeds Calculator](https://pub.pages.cba.mit.edu/feed_speeds/) - Basic feeds & speeds calculator. Not a replacement for understanding feeds & speeds.
