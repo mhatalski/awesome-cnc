@@ -92,6 +92,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [SVGNest](https://github.com/Jack000/SVGnest) - A browser-based tool for nesting SVG vectors.
 - [Digital Fabrication for Designers](http://mkmra2.blogspot.com/2014/08/cnc-cut-wood-joinery.html?m=1) - Discussion of the design and cutting of wood joints with a CNC.
 - [Lithophane Makers](https://lithophanemaker.com/) - A lithophane is carved or 3D printed artwork in a thin translucent material that reveals an image only when back lit.
+- [Tapered Inlay Plug with Clearing(Vectric gadget)](https://forum.vectric.com/viewtopic.php?t=38767) - Cutting the plug for a tapered inlay (Paul Zank method) can cause because the starting depth is equal to the thickness of the plug. This Vectric gadget adds roughing passes.
 
 ### Related Awesome Lists
 - [Awesome Plotters](https://github.com/beardicus/awesome-plotters) - What is a plotter but a CNC machine with a pen?
