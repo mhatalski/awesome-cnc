@@ -64,6 +64,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 
 ### Vector Generators
 - [CNC Hershey Font (Single Line Font) Tool](https://msurguy.github.io/cnc-text-tool/) - Single line (instead of outline) fonts are great for fast CNC engraving and also work better for things like LED signs. Browser based tool producing SVG output ([Maksim Surguy](https://github.com/msurguy))
+- [Calligrapher.ai](https://www.calligrapher.ai/?) - Realistic computer-generated handwriting, SVG output.
 - [MakerCase](https://www.makercase.com/) - web-based application for designing boxes or project cases for laser cutters and CNC routers. Generates SVG or DXF files.
 - [Maze Generator](https://www.mazegenerator.net/) - Maze Generator, free to use for private projects, commercial license available.
 - [StippleGen](https://github.com/evil-mad/stipplegen) - Processing application that can create stipple drawings and “TSP art,” from image files. ([Evil Mad Scientist Laboratories](https://www.evilmadscientist.com/))
