@@ -22,7 +22,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [CNC Dictionary](https://www.cnccookbook.com/cnc-dictionary/) - Definitions of various arcane terms used in CNC machining. ([CNC Cookbook](https://www.cnccookbook.com/))
 
 ### Beginner Books
-- [Make: Getting Started with CNC](https://www.google.com/books/edition/Getting_Started_with_CNC/wMhlDQAAQBAJ?hl=en&gbpv=1&dq=Getting%20Started%20with%20CNC&pg=PP1&printsec=frontcover) - Introduction to working with desktop CNCs, by the creator of the ShapeOKO CNC.
+- [Make: Getting Started with CNC](https://www.google.com/books/edition/Getting_Started_with_CNC/wMhlDQAAQBAJ?hl=en&gbpv=1&dq=Getting%20Started%20with%20CNC&pg=PP1&printsec=frontcover) - Introduction to working with desktop CNCs, (Edward Ford, creator of the ShapeOKO CNC).
 - [Make: Design for CNC](https://www.google.com/books/edition/Design_for_CNC/fRc4DwAAQBAJ?hl=en&gbpv=1&dq=Make%3A%20Design%20for%20CNC&pg=PP1&printsec=frontcover) - Learn how to design, fabricate, and assemble a wide range of CNC projects
 - [Guide to CNC Sign Making](https://www.google.com/books/edition/Guide_to_CNC_Sign_Making/jz7HzQEACAAJ?hl=en) - This book will lead you through the sign-making process with simple non-technical language and show you many examples of great signs...
 - [The Hobbyist's Guide to CNC](https://a.co/d/aYKXSjj) - Just published, haven't had a chance to explore fully, but seems to cover the hobby market.
@@ -36,19 +36,19 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [SFM to RPM](https://www.cnccookbook.com/what-is-sfm-plus-sfm-to-rpm/) - What is Surface Feet per Minute and converting to spindle speed. ([CNC Cookbook](https://www.cnccookbook.com/))
 
 ### Workholding
-- [8 Ways to Hold Material in Place While Machining with a CNC Router](https://www.learnyourcnc.com/blog/8-ways-to-hold-material-in-place-while-machining-with-a-cnc-router) - Blog post by Kyle Ely of [Learn Your CNC](https://www.learnyourcnc.com/) fame.
+- [8 Ways to Hold Material in Place](https://www.learnyourcnc.com/blog/8-ways-to-hold-material-in-place-while-machining-with-a-cnc-router) -  While Machining with a CNC Router ([Kyle Ely, Learn Your CNC](https://www.learnyourcnc.com/).
 - [Hold Down Clamps](https://youtu.be/TZDieOgEApI) - Quick & easy hold down clamps from scraps ([Dave Gatton](https://www.youtube.com/@DaveGatton))
 - [Hold Down Clamps (DXF file)](https://mhatalski.github.io/awesome-cnc/holddown clamps.dxf) - Hold down clamps based roughly on Dave Gatton's design.
 - [How to Use Tabs in Vcarve for Woodworking](https://youtu.be/o9wcDoIv5FY) - A variety of techniques for using tabs with Vcarve ([Avid CNC](https://www.youtube.com/@AvidCNC))
-- [7 CNC Fixturing Tips for a Small Shop](https://makezine.com/article/workshop/7-cnc-fixturing-tips-small-shop/) - Clamps, Vacuum, Double-Sided Tape, CA Glue...
+- [7 CNC Fixturing Tips for a Small Shop](https://makezine.com/article/workshop/7-cnc-fixturing-tips-small-shop/) - Clamps, Vacuum, Double-Sided Tape, CA Glue... ([Make:](https://makezine.com/))
 - [Get a Grip on CNC Work](https://www.woodmagazine.com/tool-reviews/cnc-machines/get-a-grip-on-cnc-work) = old-downs, wedges, screws, double sided tape, hotmelt glue...
 
 # Tolerances
-- [Using OpenDesk.CC to Create CNC Furniture](https://makezine.com/article/digital-fabrication/machining/opendesk-cnc-furniture/) - -0.60mm Mallet-tight, -0.00mm Press-fit, +0.20mm Push-fit, +0.50mm Slide-fit
-- [More elegant CNC dogbones](https://fablab.ruc.dk/more-elegant-cnc-dogbones/) - Use slightly smaller dogbone fillets, since wood is soft and compressible.
+- [Using OpenDesk.CC to Create CNC Furniture](https://makezine.com/article/digital-fabrication/machining/opendesk-cnc-furniture/) - What kind of fit do you want? -0.60mm Mallet-tight, -0.00mm Press-fit, +0.20mm Push-fit, +0.50mm Slide-fit. ([Make:](https://makezine.com/))
+- [More elegant CNC dogbones](https://fablab.ruc.dk/more-elegant-cnc-dogbones/) - Useing slightly smaller dogbone fillets, since wood is soft and compressible.
 
 ### Climb vs Conventional
- - [Climb vs Conventional Milling](https://www.cnccookbook.com/climb-milling-versus-conventional-milling/) - Which way?
+ - [Climb vs Conventional Milling](https://www.cnccookbook.com/climb-milling-versus-conventional-milling/) - Which way? ([CNC Cookbook](https://www.cnccookbook.com/))
 
 ## Designs and Models
 - [Design & Make 3D Clipart](https://www.designandmake.com/) - Collection of 3D clipart models, both free and paid. ([Vectric](https://www.vectric.com/))
@@ -60,7 +60,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [SketchChair](http://www.sketchchair.cc/) - Design and build digitally fabricated furniture with open-source software.
 - [Layer Chair](http://www.dyvikdesign.com/site/portfolio-jens/products/the-layer-chair) - Parametric chair built out of stacked layers.
 - [Italic Shelf](https://www.ronen-kadushin.com/italic-shelf) - Easy to fabricate, easy to assemble Knock down shelving system.
-- [CNC Workstation Cart](https://www.evilmadscientist.com/2012/cnc-workstation/) - Standing-height computer workstation.
+- [CNC Workstation Cart](https://www.evilmadscientist.com/2012/cnc-workstation/) - Standing-height computer workstation. ([Evil mad Scientist](https://www.evilmadscientist.com/))
 - [SketchChair](http://www.sketchchair.cc/) - free, open-source software tool that allows anyone to easily design and build their own digitally fabricated furniture.
 
 ### Vector Generators
