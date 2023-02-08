@@ -8,6 +8,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
   - [Workholding](#workholding)
   - [Tolerances](#tolerances)
   - [Climb vs Conventional]()#climb-vs-conventional)
+- [Software](#software)
 - [Designs and Models](#designs-and-models)
   - [Furniture](furniture)
   - [Vector Generators](#vector-generators)
@@ -36,7 +37,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [SFM to RPM](https://www.cnccookbook.com/what-is-sfm-plus-sfm-to-rpm/) - What is Surface Feet per Minute and converting to spindle speed. ([CNC Cookbook](https://www.cnccookbook.com/))
 
 ### Workholding
-- [8 Ways to Hold Material in Place](https://www.learnyourcnc.com/blog/8-ways-to-hold-material-in-place-while-machining-with-a-cnc-router) -  While Machining with a CNC Router ([Kyle Ely, Learn Your CNC](https://www.learnyourcnc.com/).
+- [8 Ways to Hold Material in Place...](https://www.learnyourcnc.com/blog/8-ways-to-hold-material-in-place-while-machining-with-a-cnc-router) - ...While Machining with a CNC Router ([Kyle Ely, Learn Your CNC](https://www.learnyourcnc.com/).
 - [Hold Down Clamps](https://youtu.be/TZDieOgEApI) - Quick & easy hold down clamps from scraps ([Dave Gatton](https://www.youtube.com/@DaveGatton))
 - [Hold Down Clamps (DXF file)](https://mhatalski.github.io/awesome-cnc/holddown clamps.dxf) - Hold down clamps based roughly on Dave Gatton's design.
 - [How to Use Tabs in Vcarve for Woodworking](https://youtu.be/o9wcDoIv5FY) - A variety of techniques for using tabs with Vcarve ([Avid CNC](https://www.youtube.com/@AvidCNC))
@@ -49,6 +50,14 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 
 ### Climb vs Conventional
  - [Climb vs Conventional Milling](https://www.cnccookbook.com/climb-milling-versus-conventional-milling/) - Which way? ([CNC Cookbook](https://www.cnccookbook.com/))
+
+## Software
+ - [Aspire & VCarvePro, Vectric](https://www.vectric.com/) - CAD/CAM. (Windows)
+ - [Fusion 360, Autodesk](https://www.autodesk.com/products/fusion-360/overview) - CAD/CAM/CAE/PCB. (Windows/Mac)
+ - [Carbide Create, Carvide 3D](https://carbide3d.com/carbidecreate/) - CAD/CAM. (Windows/Mac)
+ - [Easel, Inventables] - CAD/CAM. (cloud)
+ - [Mach3/Mach4, Newfangled Solutions](https://www.machsupport.com/) - CNC Control software. (Windows) 
+ - [grbl](https://github.com/grbl/grbl) - CNC control software. (Atmega 328, Arduino)
 
 ## Designs and Models
 - [Design & Make 3D Clipart](https://www.designandmake.com/) - Collection of 3D clipart models, both free and paid. ([Vectric](https://www.vectric.com/))
@@ -94,7 +103,8 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [SVGNest](https://github.com/Jack000/SVGnest) - A browser-based tool for nesting SVG vectors.
 - [Digital Fabrication for Designers](http://mkmra2.blogspot.com/2014/08/cnc-cut-wood-joinery.html?m=1) - Discussion of the design and cutting of wood joints with a CNC.
 - [Lithophane Makers](https://lithophanemaker.com/) - A lithophane is carved or 3D printed artwork in a thin translucent material that reveals an image only when back lit.
-- [Tapered Inlay Plug with Clearing(Vectric gadget)](https://forum.vectric.com/viewtopic.php?t=38767) - Cutting the plug for a tapered inlay (Paul Zank method) can cause because the starting depth is equal to the thickness of the plug. This Vectric gadget adds roughing passes.
+- [Tapered Inlays](https://forum.vectric.com/viewtopic.php?p=4146) - A method of doing inlays with sharp corners by using tapered V-bits. (Paul Zank)
+- [Tapered Inlay Plug with Clearing(Vectric gadget)](https://forum.vectric.com/viewtopic.php?t=38767) - Cutting the plug for a tapered (Paul Zank method) inlay can be a problem because of the first pass depth. This Vectric gadget adds roughing passes.
 
 ### Related Awesome Lists
 - [Awesome Plotters](https://github.com/beardicus/awesome-plotters) - What is a plotter but a CNC machine with a pen?
