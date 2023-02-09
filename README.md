@@ -30,6 +30,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 
 ### Feeds and Speeds
 - [Fablab Speed and Feeds Calculator](https://pub.pages.cba.mit.edu/feed_speeds/) - Basic feeds & speeds calculator. Not a replacement for understanding feeds & speeds.
+- [G-Wizard](https://www.cnccookbook.com/cnccookbook-g-wizard-software/) - Feeds & Speeds calculator running on Windows. ([CNC Cookbook](https://www.cnccookbook.com/))
 - [PreciseBits Feed and Speed Calculators](https://www.precisebits.com/calc)
 - [Making sense of Feeds and Speeds](https://www.grbl.org/single-post/making-sense-of-feeds-and-speeds) - What is Chip Load and why is it important?
 - [CNC Feeds and Speeds Calculator Wood](https://www.cnccookbook.com/feeds-speeds-cnc-wood-cutting/) - Guide + Easy Tips ([CNC Cookbook](https://www.cnccookbook.com/))
@@ -56,7 +57,6 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
  - [Fusion 360, Autodesk](https://www.autodesk.com/products/fusion-360/overview) - CAD/CAM/CAE/PCB. (Windows/Mac)
  - [Carbide Create, Carvide 3D](https://carbide3d.com/carbidecreate/) - CAD/CAM. (Windows/Mac)
  - [Easel, Inventables] - CAD/CAM. (cloud)
- - [G-Wizard](https://www.cnccookbook.com/cnccookbook-g-wizard-software/) - Feeds & Speeds calculator. (Windows)
  - [Mach3/Mach4, Newfangled Solutions](https://www.machsupport.com/) - CNC Control software. (Windows) 
  - [grbl](https://github.com/grbl/grbl) - CNC control software. (Atmega 328, Arduino)
 
