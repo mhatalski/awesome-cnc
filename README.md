@@ -7,7 +7,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
   - [Feeds and Speeds](#feeds-and-speeds)
   - [Workholding](#workholding)
   - [Tolerances](#tolerances)
-  - [Climb vs Conventional]()#climb-vs-conventional)
+  - [Climb vs Conventional](#climb-vs-conventional)
 - [Software](#software)
 - [Designs and Models](#designs-and-models)
   - [Furniture](furniture)
