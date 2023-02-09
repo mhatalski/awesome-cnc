@@ -56,6 +56,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
  - [Fusion 360, Autodesk](https://www.autodesk.com/products/fusion-360/overview) - CAD/CAM/CAE/PCB. (Windows/Mac)
  - [Carbide Create, Carvide 3D](https://carbide3d.com/carbidecreate/) - CAD/CAM. (Windows/Mac)
  - [Easel, Inventables] - CAD/CAM. (cloud)
+ - [G-Wizard](https://www.cnccookbook.com/cnccookbook-g-wizard-software/) - Feeds & Speeds calculator. (Windows)
  - [Mach3/Mach4, Newfangled Solutions](https://www.machsupport.com/) - CNC Control software. (Windows) 
  - [grbl](https://github.com/grbl/grbl) - CNC control software. (Atmega 328, Arduino)
 
