@@ -22,6 +22,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [PreciseBits Tutorials](https://www.precisebits.com/tutorials.htm) - Collection of Wood & Metal tutorials accumulated by [PreciseBits aka Think & Tinker](https://www.precisebits.com/).
 - [AutoDesk Instructables CNC Class](https://www.instructables.com/CNC-Class/) - Teaches basic CNC concepts and flat pack design.
 - [CNC Dictionary](https://www.cnccookbook.com/cnc-dictionary/) - Definitions of various arcane terms used in CNC machining. ([CNC Cookbook](https://www.cnccookbook.com/))
+- {Guerrilla guide to CNC and resin casting}(https://lcamtuf.coredump.cx/gcnc/) - Home manufacturing tutorial for robot builders, model makers, and other hobbyists. (Michal Zalewski)
 
 ### Beginner Books
 - [Make: Getting Started with CNC](https://www.google.com/books/edition/Getting_Started_with_CNC/wMhlDQAAQBAJ?hl=en&gbpv=1&dq=Getting%20Started%20with%20CNC&pg=PP1&printsec=frontcover) - Introduction to working with desktop CNCs, (Edward Ford, creator of the ShapeOKO CNC).
@@ -58,6 +59,8 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
  - [Fusion 360, Autodesk](https://www.autodesk.com/products/fusion-360/overview) - CAD/CAM/CAE/PCB. (Windows/Mac)
  - [Carbide Create, Carvide 3D](https://carbide3d.com/carbidecreate/) - CAD/CAM. (Windows/Mac)
  - [Easel, Inventables] - CAD/CAM. (cloud)
+ - [PixelCNC: CAM For Artists](https://www.deftware.org/) - CAD/CAM. (Windows) 
+ - [FreeCAD](https://www.freecad.org/) - CAD, 3D parametric modeler. (Windows/Mac/Linux, opensource)
  - [Mach3/Mach4, Newfangled Solutions](https://www.machsupport.com/) - CNC Control software. (Windows) 
  - [grbl](https://github.com/grbl/grbl) - CNC control software. (Atmega 328, Arduino)
 
@@ -87,7 +90,7 @@ Software to process images to something that can be CNC'd.
 - [StippleGen](https://github.com/evil-mad/stipplegen) - Processing application that can create stipple drawings and “TSP art,” from image files. ([Evil Mad Scientist Laboratories](https://www.evilmadscientist.com/))
 - [PicPerf](http://gofabmo.org/fabmo-picperf-app/) - Simular to Photo VCarve, but with circle/square/hex dots instead of lines. ([FabMo](http://gofabmo.org/))
 - [Vector Halftone Maker](https://halftone.xoihazard.com/) - Dot halftone generator, with many options.
-- [F=Engrave](https://www.scorchworks.com/Fengrave/fengrave.html) - G-Code generator for Engraving and V-Carving. Input can be text with a font (CXF or TTF font), image (bitmap, PNG etc.) or DXF data.
+- [F-Engrave](https://www.scorchworks.com/Fengrave/fengrave.html) - G-Code generator for Engraving and V-Carving. Input can be text with a font (CXF or TTF font), image (bitmap, PNG etc.) or DXF data.
 - [Halftoner, Reactor](https://jasondorie.com/page_cnc.html) = Halftone & Reaction/diffusion image generators.
 
 ### YouTube Channels
