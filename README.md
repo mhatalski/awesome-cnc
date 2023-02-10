@@ -83,6 +83,8 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [Flow Lines](https://github.com/msurguy/flow-lines) - Flow field / streamlines / flow lines visualization. ([Maksim Surguy](https://github.com/msurguy))
 - [PicPerf](http://gofabmo.org/fabmo-picperf-app/) - Simular to Photo VCarve, but with circle/square/hex dots instead of lines. ([FabMo](http://gofabmo.org/))
 - [Vector Halftone Maker](https://halftone.xoihazard.com/) - Dot halftone generator, with many options.
+- [F=Engrave](https://www.scorchworks.com/Fengrave/fengrave.html) - G-Code generator for Engraving and V-Carving. Input can be text with a font (CXF or TTF font), image (bitmap, PNG etc.) or DXF data.
+- [Halftoner, Reactor](https://jasondorie.com/page_cnc.html) = Halftone & Reaction/diffusion image generators.
 
 ### YouTube Channels
 - [Learn Your CNC](https://www.youtube.com/@LearnYourCNC) - Lot's of good Vectric tips & tricks by Kyle Ely, who also teaches master and group Vectric classes at [LearnYourCNC.com](https://www.learnyourcnc.com/).
