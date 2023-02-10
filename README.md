@@ -83,6 +83,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [Flow Lines](https://github.com/msurguy/flow-lines) - Flow field / streamlines / flow lines visualization. ([Maksim Surguy](https://github.com/msurguy))
 
 ### Photo Techniques
+Software to process images to something that can be CNC'd.
 - [StippleGen](https://github.com/evil-mad/stipplegen) - Processing application that can create stipple drawings and “TSP art,” from image files. ([Evil Mad Scientist Laboratories](https://www.evilmadscientist.com/))
 - [PicPerf](http://gofabmo.org/fabmo-picperf-app/) - Simular to Photo VCarve, but with circle/square/hex dots instead of lines. ([FabMo](http://gofabmo.org/))
 - [Vector Halftone Maker](https://halftone.xoihazard.com/) - Dot halftone generator, with many options.
