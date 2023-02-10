@@ -12,6 +12,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [Designs and Models](#designs-and-models)
   - [Furniture](furniture)
   - [Vector Generators](#vector-generators)
+  - [Photo Techniques](#photo-techniques)
 - [YouTube Channels](#youtube-channels)
 - [Uncategorized](#uncategorized)
 - [Related Awesome Lists](#related-awesome-lists)
@@ -78,9 +79,11 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [Calligrapher.ai](https://www.calligrapher.ai/?) - Realistic computer-generated handwriting, SVG output.
 - [MakerCase](https://www.makercase.com/) - web-based application for designing boxes or project cases for laser cutters and CNC routers. Generates SVG or DXF files.
 - [Maze Generator](https://www.mazegenerator.net/) - Maze Generator, free to use for private projects, commercial license available.
-- [StippleGen](https://github.com/evil-mad/stipplegen) - Processing application that can create stipple drawings and “TSP art,” from image files. ([Evil Mad Scientist Laboratories](https://www.evilmadscientist.com/))
 - [Rad Lines](https://github.com/msurguy/rad-lines) - Generats vector line artworks for plotting / laser engraving / CNC machining or marketing purposes. ([Maksim Surguy](https://github.com/msurguy))
 - [Flow Lines](https://github.com/msurguy/flow-lines) - Flow field / streamlines / flow lines visualization. ([Maksim Surguy](https://github.com/msurguy))
+
+### Photo Techniques
+- [StippleGen](https://github.com/evil-mad/stipplegen) - Processing application that can create stipple drawings and “TSP art,” from image files. ([Evil Mad Scientist Laboratories](https://www.evilmadscientist.com/))
 - [PicPerf](http://gofabmo.org/fabmo-picperf-app/) - Simular to Photo VCarve, but with circle/square/hex dots instead of lines. ([FabMo](http://gofabmo.org/))
 - [Vector Halftone Maker](https://halftone.xoihazard.com/) - Dot halftone generator, with many options.
 - [F=Engrave](https://www.scorchworks.com/Fengrave/fengrave.html) - G-Code generator for Engraving and V-Carving. Input can be text with a font (CXF or TTF font), image (bitmap, PNG etc.) or DXF data.
