@@ -62,6 +62,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
  - [Easel, Inventables] - CAD/CAM. (cloud)
  - [PixelCNC: CAM For Artists](https://www.deftware.org/) - CAD/CAM. (Windows) 
  - [FreeCAD](https://www.freecad.org/) - CAD, 3D parametric modeler. (Windows/Mac/Linux, opensource)
+   - [Freecad User Book](https://bassmatifreecad.github.io/FreecadUserBook/en/) - A users journey learning Freecad.
  - [Mach3/Mach4, Newfangled Solutions](https://www.machsupport.com/) - CNC Control software. (Windows) 
  - [grbl](https://github.com/grbl/grbl) - CNC control software. (Atmega 328, Arduino)
 
