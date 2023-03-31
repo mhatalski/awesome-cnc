@@ -7,7 +7,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
   - [Feeds and Speeds](#feeds-and-speeds)
   - [Workholding](#workholding)
   - [Tolerances](#tolerances)
-  - [Climb vs Conventional](#climb-vs-conventional)
+  - [Intro Miscellaneous](#intro-miscellaneous)
 - [Software](#software)
 - [Designs and Models](#designs-and-models)
   - [Furniture](furniture)
@@ -48,12 +48,13 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [7 CNC Fixturing Tips for a Small Shop](https://makezine.com/article/workshop/7-cnc-fixturing-tips-small-shop/) - Clamps, Vacuum, Double-Sided Tape, CA Glue... ([Make:](https://makezine.com/))
 - [Get a Grip on CNC Work](https://www.woodmagazine.com/tool-reviews/cnc-machines/get-a-grip-on-cnc-work) = old-downs, wedges, screws, double sided tape, hotmelt glue...
 
-# Tolerances
+### Tolerances
 - [Using OpenDesk.CC to Create CNC Furniture](https://makezine.com/article/digital-fabrication/machining/opendesk-cnc-furniture/) - What kind of fit do you want? -0.60mm Mallet-tight, -0.00mm Press-fit, +0.20mm Push-fit, +0.50mm Slide-fit. ([Make:](https://makezine.com/))
 - [More elegant CNC dogbones](https://fablab.ruc.dk/more-elegant-cnc-dogbones/) - Useing slightly smaller dogbone fillets, since wood is soft and compressible.
 
-### Climb vs Conventional
+### Intro Miscellaneous
  - [Climb vs Conventional Milling](https://www.cnccookbook.com/climb-milling-versus-conventional-milling/) - Which way? ([CNC Cookbook](https://www.cnccookbook.com/))
+ - [16 CNC Router Tips to Avoid Tearout & Splintering](https://blog.tormach.com/16-cnc-router-tips-to-avoid-tearout-splintering)
 
 ## Software
  - [Aspire & VCarvePro, Vectric](https://www.vectric.com/) - CAD/CAM. (Windows)
