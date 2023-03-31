@@ -54,7 +54,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 
 ### Intro Miscellaneous
  - [Climb vs Conventional Milling](https://www.cnccookbook.com/climb-milling-versus-conventional-milling/) - Which way? ([CNC Cookbook](https://www.cnccookbook.com/))
- - [16 CNC Router Tips to Avoid Tearout & Splintering](https://blog.tormach.com/16-cnc-router-tips-to-avoid-tearout-splintering)
+ - [16 CNC Router Tips to Avoid Tearout & Splintering](https://blog.tormach.com/16-cnc-router-tips-to-avoid-tearout-splintering) - Common causes & solutions of wood tearout. ([Tormach](https://tormach.com/))
 
 ## Software
  - [Aspire & VCarvePro, Vectric](https://www.vectric.com/) - CAD/CAM. (Windows)
