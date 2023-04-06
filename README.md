@@ -100,9 +100,10 @@ Software to process images to something that can be CNC'd.
 ### Terrain Related
 Working with maps, terestrial and other
 - [Carving 3D Terrain Topographic Relief Maps on a CNC Machine](https://www.instructables.com/Carving-3D-Terrain-Topographic-Relief-Maps-on-a-CN/) - Step by Step Instructable.
-- [Moon Trek](https://trek.nasa.gov/moon/#v=0.1&x=-20.13793907748061&y=9.525146306697042&z=7&p=urn%3Aogc%3Adef%3Acrs%3AEPSG%3A%3A104903&d=&locale=&b=moon) - NASA provide tools to explore lunar maps & data, including download digital models that can be CNC carved or 3D printed.
-- [3D Printed Moon Copernicus Crater Desk Décor](https://www.instructables.com/3D-Printed-Moon-Copernicus-Crater-Desk-D%C3%A9cor/) - Step by step instructions for 3D printing a lunar landscape, but applicable for CNC machining.
 - [Terrain Relief Models, Unabridged](https://community.carbide3d.com/t/terrain-relief-models-unabridged/14713) - Tips & workflow for working with terrain maps. ([Carbide 3D](https://carbide3d.com/))
+- [Moon Trek](https://trek.nasa.gov/moon/#v=0.1&x=-20.13793907748061&y=9.525146306697042&z=7&p=urn%3Aogc%3Adef%3Acrs%3AEPSG%3A%3A104903&d=&locale=&b=moon) - NASA provide tools to explore lunar maps & data, including download digital models that can be CNC carved or 3D printed.
+- [3D Printed Moon Copernicus Crater Desk Décor](https://www.instructables.com/3D-Printed-Moon-Copernicus-Crater-Desk-D%C3%A9cor/) - Instructable for 3D printing a lunar landscape, but applicable for CNC machining.
+- [How to Carve the Lunar Surface](https://www.instructables.com/How-to-Carve-the-Lunar-Surface-with-CNC/) - Instructable for CNC carving a lunar surface.
 
 ### YouTube Channels
 - [Learn Your CNC](https://www.youtube.com/@LearnYourCNC) - Lot's of good Vectric tips & tricks by Kyle Ely, who also teaches master and group Vectric classes at [LearnYourCNC.com](https://www.learnyourcnc.com/).
