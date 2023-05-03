@@ -55,12 +55,13 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 ### Intro Miscellaneous
  - [Climb vs Conventional Milling](https://www.cnccookbook.com/climb-milling-versus-conventional-milling/) - Which way? ([CNC Cookbook](https://www.cnccookbook.com/))
  - [16 CNC Router Tips to Avoid Tearout & Splintering](https://blog.tormach.com/16-cnc-router-tips-to-avoid-tearout-splintering) - Common causes & solutions of wood tearout. ([Tormach](https://tormach.com/))
+ - [Surfacing / Spoilboard cutters / fly cutting](https://www.cnccookbook.com/spoilboard-cutter/) - Reviews of several spoilboard cutters and tips for using them. ([CNC Cookbook](https://www.cnccookbook.com/))
 
 ## Software
  - [Aspire & VCarvePro, Vectric](https://www.vectric.com/) - CAD/CAM. (Windows)
  - [Fusion 360, Autodesk](https://www.autodesk.com/products/fusion-360/overview) - CAD/CAM/CAE/PCB. (Windows/Mac)
  - [Carbide Create, Carvide 3D](https://carbide3d.com/carbidecreate/) - CAD/CAM. (Windows/Mac)
- - [Easel, Inventables] - CAD/CAM. (cloud)
+ - [Easel, Inventables](https://www.inventables.com/technologies/easel) - CAD/CAM. (cloud)
  - [PixelCNC: CAM For Artists](https://www.deftware.org/) - CAD/CAM. (Windows) 
  - [FreeCAD](https://www.freecad.org/) - CAD, 3D parametric modeler. (Windows/Mac/Linux, opensource)
    - [Freecad User Book](https://bassmatifreecad.github.io/FreecadUserBook/en/) - A users journey learning Freecad.
