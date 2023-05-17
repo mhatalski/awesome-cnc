@@ -57,6 +57,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
  - [Climb vs Conventional Milling](https://www.cnccookbook.com/climb-milling-versus-conventional-milling/) - Which way? ([CNC Cookbook](https://www.cnccookbook.com/))
  - [16 CNC Router Tips to Avoid Tearout & Splintering](https://blog.tormach.com/16-cnc-router-tips-to-avoid-tearout-splintering) - Common causes & solutions of wood tearout. ([Tormach](https://tormach.com/))
  - [Surfacing / Spoilboard cutters / fly cutting](https://www.cnccookbook.com/spoilboard-cutter/) - Reviews of several spoilboard cutters and tips for using them. ([CNC Cookbook](https://www.cnccookbook.com/))
+ - [Conventional Milling vs Climb Milling](https://harveyperformance.widen.net/s/nifm3p7ym0) - Good explanation of chip formation during machining, and climb vs conventional milling. ([Harvey Tool Company](https://www.harveytool.com/))
 
 ## Software
  - [Aspire & VCarvePro, Vectric](https://www.vectric.com/) - CAD/CAM. (Windows)
