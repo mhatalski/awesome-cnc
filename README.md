@@ -30,6 +30,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [Make: Design for CNC](https://www.google.com/books/edition/Design_for_CNC/fRc4DwAAQBAJ?hl=en&gbpv=1&dq=Make%3A%20Design%20for%20CNC&pg=PP1&printsec=frontcover) - Learn how to design, fabricate, and assemble a wide range of CNC projects
 - [Guide to CNC Sign Making](https://www.google.com/books/edition/Guide_to_CNC_Sign_Making/jz7HzQEACAAJ?hl=en) - This book will lead you through the sign-making process with simple non-technical language and show you many examples of great signs...
 - [The Hobbyist's Guide to CNC](https://a.co/d/aYKXSjj) - Just published, haven't had a chance to explore fully, but seems to cover the hobby market.
+- [Mastering Fusion 360](https://www.cadclass.org/pages/book) - Step by step projects for Fusion 360 for CNC and 3D printing. ([Jake Sugden & Joshua Manley, SliceForm LLC](https://www.cadclass.org/))
 
 ### Feeds and Speeds
 - [Fablab Speed and Feeds Calculator](https://pub.pages.cba.mit.edu/feed_speeds/) - Basic feeds & speeds calculator. Not a replacement for understanding feeds & speeds.
@@ -40,6 +41,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [16 Tips to Avoid Tearout and Splintering / CNC Machining Plywood](https://www.cnccookbook.com/16-cnc-router-tips-to-avoid-tearout-and-splintering/) - Choice of bits, feeds & speeds, cut direction etc. ([CNC Cookbook](https://www.cnccookbook.com/))
 - [SFM to RPM](https://www.cnccookbook.com/what-is-sfm-plus-sfm-to-rpm/) - What is Surface Feet per Minute and converting to spindle speed. ([CNC Cookbook](https://www.cnccookbook.com/))
 - [CNC Routing: Speeds and Feeds](https://calbryant.uk/blog/cnc-routing-speeds-and-feeds/) - Chip load, feeds and speeds, flute types, DOC (Depth Of Cut), oh my! ([Cal Bryant](https://calbryant.uk/))
+- [Understanding V-Bits for VCarving](https://www.learnyourcnc.com/blog/cnc-tip-understanding-vcarving) - Good visual for understanding cut width vs cut depth for different angle V-Bits. ([Kyle Ely, Learn Your CNC](https://www.learnyourcnc.com/)
 
 ### Workholding
 - [8 Ways to Hold Material in Place...](https://www.learnyourcnc.com/blog/8-ways-to-hold-material-in-place-while-machining-with-a-cnc-router) - ...While Machining with a CNC Router ([Kyle Ely, Learn Your CNC](https://www.learnyourcnc.com/).
