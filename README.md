@@ -24,6 +24,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [AutoDesk Instructables CNC Class](https://www.instructables.com/CNC-Class/) - Teaches basic CNC concepts and flat pack design.
 - [CNC Dictionary](https://www.cnccookbook.com/cnc-dictionary/) - Definitions of various arcane terms used in CNC machining. ([CNC Cookbook](https://www.cnccookbook.com/))
 - [Guerrilla guide to CNC and resin casting](https://lcamtuf.coredump.cx/gcnc/) - Home manufacturing tutorial for robot builders, model makers, and other hobbyists. (Michal Zalewski)
+- [Vectric for the Absolute Beginner](https://www.youtube.com/playlist?list=PLLuYLaC3-QRNuVTej2P5emp1D4_Tm774p) - Great series of videos on using Vectric software, starting with job setup...  [Mark Lindsay CNC](https://www.youtube.com/@MarkLindsayCNC)
 
 ### Beginner Books
 - [Make: Getting Started with CNC](https://www.google.com/books/edition/Getting_Started_with_CNC/wMhlDQAAQBAJ?hl=en&gbpv=1&dq=Getting%20Started%20with%20CNC&pg=PP1&printsec=frontcover) - Introduction to working with desktop CNCs, (Edward Ford, creator of the ShapeOKO CNC).
