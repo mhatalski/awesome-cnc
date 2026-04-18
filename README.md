@@ -136,3 +136,4 @@ Working with maps, terestrial and other
 ### Related Awesome Lists
 - [Awesome Plotters](https://github.com/beardicus/awesome-plotters) - What is a plotter but a CNC machine with a pen?
 - [DrawingBots Resources](https://drawingbots.net/resources) - List of resources and tools for plotter and drawing robot enthusiasts
+- [Plywood Cut Optimizer](https://tools.modologystudios.com) - Free browser tool: enter your cut list, get an optimized sheet layout with waste percentage. No signup, no download. Works for 4×8, 4×10, and custom sheet sizes.
