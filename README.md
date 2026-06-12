@@ -72,6 +72,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
    - [Freecad User Book](https://bassmatifreecad.github.io/FreecadUserBook/en/) - A users journey learning Freecad.
  - [Mach3/Mach4, Newfangled Solutions](https://www.machsupport.com/) - CNC Control software. (Windows) 
  - [grbl](https://github.com/grbl/grbl) - CNC control software. (Atmega 328, Arduino)
+ - [karmyogi](https://karmyogi.hjlabs.in) - Browser-based GRBL control + CAD/CAM workbench (no install, Web Serial). Carving, pen-plot, auto-solder, PCB isolation, 3D sim, gamepad + AI G-code.`
  - [NCneticNpp (NotePad++ GCode plugin)](https://github.com/NCalu/NCneticNpp) - Simulate/Plot g-code files directly in Notepad++
 
 ## Designs and Models
