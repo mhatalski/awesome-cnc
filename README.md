@@ -63,6 +63,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
  - [Conventional Milling vs Climb Milling](https://harveyperformance.widen.net/s/nifm3p7ym0) - Good explanation of chip formation during machining, and climb vs conventional milling. ([Harvey Tool Company](https://www.harveytool.com/))
 
 ## Software
+- [MetaVision Text-to-CNC](https://github.com/adminmetavision-rgb/text-to-cnc-agent) - AI agent: text prompt → 3D model → G-code in 60s. MCP/A2A compatible, x402 micropayments.
  - [Aspire & VCarvePro, Vectric](https://www.vectric.com/) - CAD/CAM. (Windows)
  - [Fusion 360, Autodesk](https://www.autodesk.com/products/fusion-360/overview) - CAD/CAM/CAE/PCB. (Windows/Mac)
  - [Carbide Create, Carvide 3D](https://carbide3d.com/carbidecreate/) - CAD/CAM. (Windows/Mac)
