@@ -43,6 +43,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [SFM to RPM](https://www.cnccookbook.com/what-is-sfm-plus-sfm-to-rpm/) - What is Surface Feet per Minute and converting to spindle speed. ([CNC Cookbook](https://www.cnccookbook.com/))
 - [CNC Routing: Speeds and Feeds](https://calbryant.uk/blog/cnc-routing-speeds-and-feeds/) - Chip load, feeds and speeds, flute types, DOC (Depth Of Cut), oh my! ([Cal Bryant](https://calbryant.uk/))
 - [Understanding V-Bits for VCarving](https://www.learnyourcnc.com/blog/cnc-tip-understanding-vcarving) - Good visual for understanding cut width vs cut depth for different angle V-Bits. ([Kyle Ely, Learn Your CNC](https://www.learnyourcnc.com/)
+- [Speeds and Feeds for Metal Cutting](https://cuttingtoolsai.eu/speeds-and-feeds.html) - Understanding surface speed, chip load and depth of cut when cutting metal. ([CuttingToolsAI](https://cuttingtoolsai.eu/))
 
 ### Workholding
 - [8 Ways to Hold Material in Place...](https://www.learnyourcnc.com/blog/8-ways-to-hold-material-in-place-while-machining-with-a-cnc-router) - ...While Machining with a CNC Router ([Kyle Ely, Learn Your CNC](https://www.learnyourcnc.com/).
@@ -73,6 +74,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
  - [Mach3/Mach4, Newfangled Solutions](https://www.machsupport.com/) - CNC Control software. (Windows) 
  - [grbl](https://github.com/grbl/grbl) - CNC control software. (Atmega 328, Arduino)
  - [NCneticNpp (NotePad++ GCode plugin)](https://github.com/NCalu/NCneticNpp) - Simulate/Plot g-code files directly in Notepad++
+ - [Insert Code Decoder](https://cuttingtoolsai.eu/insert-decoder) - Free deterministic ISO 1832 insert code decoder (e.g. CNMG120408) with cross-brand grade equivalents. (web)
 
 ## Designs and Models
 - [Design & Make 3D Clipart](https://www.designandmake.com/) - Collection of 3D clipart models, both free and paid. ([Vectric](https://www.vectric.com/))
