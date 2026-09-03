@@ -73,6 +73,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
  - [Mach3/Mach4, Newfangled Solutions](https://www.machsupport.com/) - CNC Control software. (Windows) 
  - [grbl](https://github.com/grbl/grbl) - CNC control software. (Atmega 328, Arduino)
  - [NCneticNpp (NotePad++ GCode plugin)](https://github.com/NCalu/NCneticNpp) - Simulate/Plot g-code files directly in Notepad++
+ - [PureCutCNC](https://purecutcnc.github.io) - CAD/CAM. (Windows/Mac/Linux/Browser/Tablet)
 
 ## Designs and Models
 - [Design & Make 3D Clipart](https://www.designandmake.com/) - Collection of 3D clipart models, both free and paid. ([Vectric](https://www.vectric.com/))
