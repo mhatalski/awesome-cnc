@@ -25,6 +25,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [CNC Dictionary](https://www.cnccookbook.com/cnc-dictionary/) - Definitions of various arcane terms used in CNC machining. ([CNC Cookbook](https://www.cnccookbook.com/))
 - [Guerrilla guide to CNC and resin casting](https://lcamtuf.coredump.cx/gcnc/) - Home manufacturing tutorial for robot builders, model makers, and other hobbyists. (Michal Zalewski)
 - [Vectric for the Absolute Beginner](https://www.youtube.com/playlist?list=PLLuYLaC3-QRNuVTej2P5emp1D4_Tm774p) - Great series of videos on using Vectric software, starting with job setup...  [Mark Lindsay CNC](https://www.youtube.com/@MarkLindsayCNC)
+- [CNC mill guide](https://smoothieware.org/cnc-mill-guide) - Setting up a CNC mill or router with a Smoothieboard Open Source controller, also has guides for lasers, 3D printers etc.
 
 ### Beginner Books
 - [Make: Getting Started with CNC](https://www.google.com/books/edition/Getting_Started_with_CNC/wMhlDQAAQBAJ?hl=en&gbpv=1&dq=Getting%20Started%20with%20CNC&pg=PP1&printsec=frontcover) - Introduction to working with desktop CNCs, (Edward Ford, creator of the ShapeOKO CNC).
@@ -73,6 +74,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
  - [Mach3/Mach4, Newfangled Solutions](https://www.machsupport.com/) - CNC Control software. (Windows) 
  - [grbl](https://github.com/grbl/grbl) - CNC control software. (Atmega 328, Arduino)
  - [NCneticNpp (NotePad++ GCode plugin)](https://github.com/NCalu/NCneticNpp) - Simulate/Plot g-code files directly in Notepad++
+ - [bCNC](https://github.com/vlachoudis/bcnc) - CNC control software, some CAM capabilities (Linux/Windows, Mac unstable)
 
 ## Designs and Models
 - [Design & Make 3D Clipart](https://www.designandmake.com/) - Collection of 3D clipart models, both free and paid. ([Vectric](https://www.vectric.com/))
