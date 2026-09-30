@@ -127,6 +127,7 @@ Working with maps, terestrial and other
 - [Design into 3D](https://willadams.gitbook.io/design-into-3d/) - A system for parametric design of projects for CNC or traditional techniques.
 - [TouchTerrain](https://touchterrain.geol.iastate.edu/) - TouchTerrain converts digital elevation data into digital model files (STL or OBJ) suitable for 3D printing or CNCing.
 - [Deepnest.io](https://deepnest.io/) - Opensource nesting app (Win/OSX/Linux) for CNC/Laser?plasma cutting. Reads DXF/SVG/CDR files, exports DXF/SVG. Uses the [SVGNest](https://github.com/Jack000/SVGnest) libary. ([Jack Qiao](https://github.com/Jack000))
+- [Kenzap Nesting](https://github.com/kenzap/nesting-app) - Free, open-source desktop nesting app (Win/macOS/Linux) for CNC, laser, plasma and waterjet cutting. DXF in/out with live preview and common-line cutting. Uses the [Sparrow](https://github.com/JeroenGar/sparrow) nesting engine. ([Kenzap](https://github.com/kenzap))
 - [Digital Fabrication for Designers](http://mkmra2.blogspot.com/2014/08/cnc-cut-wood-joinery.html?m=1) - Discussion of the design and cutting of wood joints with a CNC.
 - [Lithophane Makers](https://lithophanemaker.com/) - A lithophane is carved or 3D printed artwork in a thin translucent material that reveals an image only when back lit.
 - [Tapered Inlays](https://forum.vectric.com/viewtopic.php?p=4146) - A method of doing inlays with sharp corners by using tapered V-bits. (Paul Zank)
