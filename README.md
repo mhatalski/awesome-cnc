@@ -95,6 +95,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [Rad Lines](https://github.com/msurguy/rad-lines) - Generats vector line artworks for plotting / laser engraving / CNC machining or marketing purposes. ([Maksim Surguy](https://github.com/msurguy))
 - [Flow Lines](https://github.com/msurguy/flow-lines) - Flow field / streamlines / flow lines visualization. ([Maksim Surguy](https://github.com/msurguy))
 - [Converting line art for drawing](https://community.carbide3d.com/t/converting-line-art-for-drawing/9493) - Tips for converting vector clip art for CNCing. ([Carbide 3D](https://carbide3d.com/))
+- [DXF Converter (3D Studio)](https://3dstudio.co/tools/dxf-converter/) - Browser-based DXF viewer that converts DXF to SVG in mm for laser cutting, or to PDF. Free, files are not uploaded.
 
 ### Photo Techniques
 Software to process images to something that can be CNC'd.
@@ -103,6 +104,7 @@ Software to process images to something that can be CNC'd.
 - [Vector Halftone Maker](https://halftone.xoihazard.com/) - Dot halftone generator, with many options.
 - [F-Engrave](https://www.scorchworks.com/Fengrave/fengrave.html) - G-Code generator for Engraving and V-Carving. Input can be text with a font (CXF or TTF font), image (bitmap, PNG etc.) or DXF data.
 - [Halftoner, Reactor](https://jasondorie.com/page_cnc.html) = Halftone & Reaction/diffusion image generators.
+- [Image to STL (3D Studio)](https://3dstudio.co/tools/image-to-stl/) - Browser-based converter from PNG/JPG to STL or OBJ for reliefs and lithophanes. Free, files are not uploaded.
 
 ### Terrain Related
 Working with maps, terestrial and other
