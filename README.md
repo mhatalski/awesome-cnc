@@ -95,6 +95,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [Rad Lines](https://github.com/msurguy/rad-lines) - Generats vector line artworks for plotting / laser engraving / CNC machining or marketing purposes. ([Maksim Surguy](https://github.com/msurguy))
 - [Flow Lines](https://github.com/msurguy/flow-lines) - Flow field / streamlines / flow lines visualization. ([Maksim Surguy](https://github.com/msurguy))
 - [Converting line art for drawing](https://community.carbide3d.com/t/converting-line-art-for-drawing/9493) - Tips for converting vector clip art for CNCing. ([Carbide 3D](https://carbide3d.com/))
+- [Pic2SVG](https://pic2svg.com/) - Browser-based raster-to-vector converter that traces PNG/JPG into real SVG paths (plus DXF/EPS/PDF) for CNC and laser work. Free to trace and preview; downloads are a paid tier, and images are uploaded for server-side tracing.
 
 ### Photo Techniques
 Software to process images to something that can be CNC'd.
