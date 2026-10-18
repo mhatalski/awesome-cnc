@@ -132,6 +132,7 @@ Working with maps, terestrial and other
 - [Tapered Inlays](https://forum.vectric.com/viewtopic.php?p=4146) - A method of doing inlays with sharp corners by using tapered V-bits. (Paul Zank)
 - [Tapered Inlay Plug with Clearing(Vectric gadget)](https://forum.vectric.com/viewtopic.php?t=38767) - Cutting the plug for a tapered (Paul Zank method) inlay can be a problem because of the first pass depth. This Vectric gadget adds roughing passes.
 - [Tailmaker Software Free Downloads](https://fabrikisto.com/tailmaker-software/) - Guillochograph (Guilloche generator), Puzzle My Joint (jigsaw patterns & frames),  Fingermaker (design complex finger joints), and misc. patterns.
+ - [MeshNomics](https://www.meshnomics.com/) - Machine comparison and production-cost planning for makers selling CNC, laser and 3D-printed products. (web)
 
 ### Related Awesome Lists
 - [Awesome Plotters](https://github.com/beardicus/awesome-plotters) - What is a plotter but a CNC machine with a pen?
