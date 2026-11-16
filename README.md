@@ -67,6 +67,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
  - [Fusion 360, Autodesk](https://www.autodesk.com/products/fusion-360/overview) - CAD/CAM/CAE/PCB. (Windows/Mac)
  - [Carbide Create, Carvide 3D](https://carbide3d.com/carbidecreate/) - CAD/CAM. (Windows/Mac)
  - [Easel, Inventables](https://www.inventables.com/technologies/easel) - CAD/CAM. (cloud)
+ - [FEAI Machine Monitor](https://monitor.factoryedgeai.com) - Windows MTConnect CNC machine monitoring; free for 2 machines.
  - [PixelCNC: CAM For Artists](https://www.deftware.org/) - CAD/CAM. (Windows) 
  - [FreeCAD](https://www.freecad.org/) - CAD, 3D parametric modeler. (Windows/Mac/Linux, opensource)
    - [Freecad User Book](https://bassmatifreecad.github.io/FreecadUserBook/en/) - A users journey learning Freecad.
