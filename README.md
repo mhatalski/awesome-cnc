@@ -34,6 +34,7 @@ A curated list of CNC (Computer Numerical Control) and Digital Fabrication resou
 - [Mastering Fusion 360](https://www.cadclass.org/pages/book) - Step by step projects for Fusion 360 for CNC and 3D printing. ([Jake Sugden & Joshua Manley, SliceForm LLC](https://www.cadclass.org/))
 
 ### Feeds and Speeds
+- [DepthCarve CNC & Laser Calculators](https://depthcarve.com/tools) - 85 free, zero-login browser calculators for CNC feeds/speeds, ball-nose scallop height, MOPA laser optics, and client-side PNG-to-DXF conversion.
 - [Fablab Speed and Feeds Calculator](https://pub.pages.cba.mit.edu/feed_speeds/) - Basic feeds & speeds calculator. Not a replacement for understanding feeds & speeds.
 - [G-Wizard](https://www.cnccookbook.com/cnccookbook-g-wizard-software/) - Feeds & Speeds calculator running on Windows. ([CNC Cookbook](https://www.cnccookbook.com/))
 - [PreciseBits Feed and Speed Calculators](https://www.precisebits.com/calc)
